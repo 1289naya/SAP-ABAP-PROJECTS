@@ -157,7 +157,7 @@ The application was tested using different selection criteria to verify:
 * Correct material information
 * Correct purchase order details
 * Correct ALV display
-* 
+
 Program Output
 
 [SAP ABAP Output](screenshots/output1.png)
