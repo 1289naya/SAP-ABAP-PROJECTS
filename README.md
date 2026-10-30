@@ -159,7 +159,9 @@ The application was tested using different selection criteria to verify:
 * Correct ALV display
 * 
 Program Output
+
 [SAP ABAP Output](screenshots/output1.png)
+
  Key Learning Outcomes
 
 Through this project, I gained practical experience in:
