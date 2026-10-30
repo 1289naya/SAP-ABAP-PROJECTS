@@ -159,16 +159,7 @@ The application was tested using different selection criteria to verify:
 * Correct ALV display
 * 
 Program Output
-
- 1. Selection Screen
-![Selection Screen](Documentation/Screenshots/selection_screen.png)
-
- 2. ALV Report Output
-![SAP ABAP Output](Documentation/Screenshots/output1.png)
-
- 3. Vendor and Material Details
-![Vendor and Material Details](Documentation/Screenshots/output2.png)
-
+[SAP ABAP Output](screenshots/output1.png)
  Key Learning Outcomes
 
 Through this project, I gained practical experience in:
