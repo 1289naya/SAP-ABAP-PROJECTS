@@ -110,19 +110,6 @@ The project covers:
 * Sorting
 * Filtering
 * OO ALV / SALV
- 
- 5. Smart Forms
-
-Smart Forms are used to generate a structured business document containing information such as:
-
-* Vendor Number
-* Vendor Name
-* Material Number
-* Material Description
-* Material Type
-* Quantity
-* Unit of Measure
-* Plant
 
  Sample Business Flow
 
